@@ -14,5 +14,5 @@ Learning github and front-end web development at that moment.
 |Python	 |very little	  |
 |C++	 |very little	  |
 # Want-to learn
-*CSS
-*Javascript
+* CSS
+* Javascript
