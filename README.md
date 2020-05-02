@@ -1,6 +1,6 @@
 # Introduction
 My name is Yeung Cheung Nam. I am a year 2 CS student.  
-I have **NO** developing experience right now.  
+I have **Very little** developing experience right now.  
 Learning github and front-end web development at that moment.  
 
 # Good courses
