@@ -20,3 +20,4 @@ Learning github and front-end web development at that moment.
 * CSS
 * Javascript
 
+![the screenshot](https://github.com/csci3251-2020/student-1155126594/blob/master/command.png)
